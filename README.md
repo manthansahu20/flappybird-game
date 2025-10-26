@@ -41,4 +41,4 @@ Fly the bird through the obstacles and try to beat your high score!
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/username/flappy-bird.git
+git clone https://github.com/manthansahu20/flappy-bird.git
